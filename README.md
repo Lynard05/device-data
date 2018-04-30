@@ -3,7 +3,7 @@
 Parsing and visualizing of log data from txt file. Written in python 3 using Jupyter Notebook:
 
    
- * Introduction
+ ____Introduction___
  
 The code enclosed within the attached Jupyter Notebook files is my first attempt at parsing a text document and creating visulatizations using python. The txt file is the log file output from EWBF's Nvidia Miner used to mine cryptocurrencies using graphics cards. 
 
@@ -16,7 +16,7 @@ Data to be visualized per gpu and mean for all gpu's includes:
 - Temperature
 
   
- * Requirements
+ ____Requirements____
  
  This module requires the following modules:
  
