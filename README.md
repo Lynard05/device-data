@@ -1,6 +1,6 @@
 # device-data
 
-Parsing and visualizing of log data from txt file. Written in python using Jupyter Notebook:
+Parsing and visualizing of log data from txt file. Written in python 3 using Jupyter Notebook:
 
    
  * Introduction
@@ -11,15 +11,15 @@ Besides serving as a hands on learning experience, the results obtained will hel
 
 Data to be visualized per gpu and mean for all gpu's includes:
 
-Solutions / Second
-Accepted Shares
-Temperature
+- Solutions / Second
+- Accepted Shares
+- Temperature
 
   
  * Requirements
  
  This module requires the following modules:
  
- Pandas
- Matplotlib
- Seaborn
+- Pandas
+- Matplotlib
+- Seaborn
