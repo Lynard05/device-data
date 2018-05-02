@@ -18,7 +18,7 @@ Data to be visualized per gpu and mean for all gpu's includes:
   
  ____Requirements____
  
- This module requires the following modules:
+ The following modules are required:
  
 - Pandas
 - Matplotlib
